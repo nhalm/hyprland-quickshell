@@ -1,0 +1,25 @@
+{
+  "layout": "centered",
+  "modules": {
+    "left": [
+      "Launcher",
+      "Workspaces"
+    ],
+    "center": [
+      "NowPlaying",
+      "Volume",
+      "Battery",
+      "Clock"
+    ],
+    "right": [
+      "Weather",
+      "Performance",
+      "Network",
+      "Bluetooth",
+      "Updates",
+      "Tray",
+      "Notifications",
+      "PowerMenu"
+    ]
+  }
+}
