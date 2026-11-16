@@ -19,6 +19,11 @@ input_path = '~/.config/quickshell/matugen/colors.json'
 output_path = '~/.local/state/matugen/colors.json'
 ```
 
+## Develop
+
+In a clone you commit from: `mise trust && mise install && lefthook install`
+(`lefthook.yml`: gitleaks on staged changes; versions in `mise.toml`).
+
 ## Layout
 
 | Path | What |
